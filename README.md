@@ -5,3 +5,5 @@ Sends packets using UDP to a server. The server and host IP and port can be chan
 Network Stack and Fastboot have to be disabled in BIOS.
 
 No external NIC.
+
+Built with [EDK II](https://github.com/tianocore/edk2).
